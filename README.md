@@ -1,8 +1,8 @@
 ## Author
 
-Marcos Ramírez (Spain), programmer and computater lover since '80s (i'm not so old xD), mainly interested in web services, cloud computing, and automatitation.
+Marcos Ramírez (Spain), programmer and computer lover since '80s (i'm not so old xD), mainly interested in web services, cloud computing, and automatitation.
 
-Yo can contact/find more info about me, in:
+You can contact/find more info about me, in:
 
 [Email](mailto:"marcosramirez+github@gmail.com") - [Twitter](http://www.twitter.com/ImMarcosRamirez) - [LinkedIn](https://es.linkedin.com/in/marcosramirezparicio) - [StackOverflow]( http://stackoverflow.com/users/352011/marcos)
 
@@ -12,7 +12,8 @@ I'm (re)writing, for teaching (and maybe improve) purposes, all my libs, and she
 
 
 ## common.sh
-Basic and commong BASH Scripting functions
+Basic and common BASH Scripting functions
+
 ### Features
 
 - Run commands and logs output
